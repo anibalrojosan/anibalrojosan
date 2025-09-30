@@ -12,17 +12,11 @@ My current focus is on upskill my abilities in mathematics and programming to co
 
 ### Let's connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:anibal.rojo16@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" />
-  </a>
+  <a href="mailto:anibal.rojo16@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/anibalrojosan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" />
-  </a>
+  <a href="https://x.com/anibalrojosan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" /></a>
 </p>
 
 ## 🛠️ Some tools that I have been using and learning  
