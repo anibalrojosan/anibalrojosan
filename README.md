@@ -4,8 +4,6 @@ I am a **Bioprocess Engineer** and **M.Sc. in Biochemical Engineering**, special
 
 My current focus is on upskill my abilities in mathematics and programming to conduct research in ML and explore its applications in biochemical engineering 🦠🤖, aiming to create a positive impact on society and the environment.
 
----
-
 ## 📌 Current focus  
 - Strengthening foundations in **mathematics for machine learning** and **deep learning with PyTorch**  
 - Designing and implementing **end-to-end ML pipelines**, from data acquisition to deployment in production  
@@ -14,18 +12,18 @@ My current focus is on upskill my abilities in mathematics and programming to co
 
 ### Let's connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="mailto:anibal.rojo16@gmail.com" style="text-decoration:none">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anibal.rojo16@gmail.com">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" />
   </a>
-  <a href="https://x.com/anibalrojosan" target="_blank" style="text-decoration:none">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/anibalrojosan" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" />
   </a>
 </p>
-
----
 
 ## 🛠️ Some tools that I have been using and learning  
 
