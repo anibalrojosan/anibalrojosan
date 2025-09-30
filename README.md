@@ -2,7 +2,7 @@
 
 I am a **Bioprocess Engineer** and **M.Sc. in Biochemical Engineering**, specialized in **Environmental Biotechnology** and **Wastewater Treatment**. I'm also passionate about **Data Science**, **Machine Learning**, and **AI**. <br/> 
 
-My current focus is on upskill my abilities in mathematics and programming to conduct research in ML and explore its applications in biochemical engineering, aiming to create a positive impact on society and the environment.
+My current focus is on upskill my abilities in mathematics and programming to conduct research in ML and explore its applications in biochemical engineering 🦠🤖, aiming to create a positive impact on society and the environment.
 
 ---
 
