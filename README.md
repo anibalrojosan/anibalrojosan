@@ -12,6 +12,19 @@ My current focus is on upskill my abilities in mathematics and programming to co
 - Practicing **software engineering best practices** for clean, scalable, and reproducible data science  
 - Recreating **classical ML algorithms from scratch** to gain deeper insight into their inner workings  
 
+### Let's connect:
+<p align="left">
+  <a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US" target="_blank" style="text-decoration:none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  <a href="mailto:anibal.rojo16@gmail.com" style="text-decoration:none">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" />
+  </a>
+  <a href="https://x.com/anibalrojosan" target="_blank" style="text-decoration:none">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Some tools that I have been using and learning  
@@ -42,19 +55,4 @@ My current focus is on upskill my abilities in mathematics and programming to co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>          
-</p>
-
----
-## 📫 Let's connect and have a chat!  
-
-<p align="center">
-<a href="https://www.linkedin.com/in/anibalrojo/?locale=en_US">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:anibal.rojo16@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://x.com/anibalrojosan">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
 </p>
