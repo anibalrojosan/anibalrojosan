@@ -5,7 +5,9 @@ I am a **Bioprocess Engineer** and **MSc. in Biochemical Engineering**, speciali
 My current focus is on upskill my abilities in mathematics and programming to conduct research in ML and explore its applications in biochemical engineering 🦠🤖, aiming to create a positive impact on society and the environment.
 
 ## 📌 Learning journey  
-- Strengthening foundations in **mathematics for machine learning**  
+
+Currently, I am interested in:
+- Strengthening my foundations in **mathematics for machine learning**  
 - Designing and implementing **end-to-end ML pipelines**, from data acquisition to deployment in production  
 - Practicing **software engineering best practices** for clean, scalable, and reproducible data science  
 - Recreating **classical ML algorithms from scratch** to gain deeper undersanting of their inner workings
