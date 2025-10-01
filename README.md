@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Aníbal Rojo  
 
-I am a **Bioprocess Engineer** and **M.Sc. in Biochemical Engineering**, specialized in **Environmental Biotechnology** and **Wastewater Treatment**. I'm also passionate about **Data Science**, **Machine Learning**, and **AI**. <br/> 
+I am a **Bioprocess Engineer** and **MSc. in Biochemical Engineering**, specialized in **Environmental Biotechnology** and **Wastewater Treatment**. I'm also passionate about **Data Science**, **Machine Learning**, and **AI**. <br/> 
 
 My current focus is on upskill my abilities in mathematics and programming to conduct research in ML and explore its applications in biochemical engineering 🦠🤖, aiming to create a positive impact on society and the environment.
 
-## 📌 Current focus  
+## 📌 Learning journey  
 - Strengthening foundations in **mathematics for machine learning** and **deep learning with PyTorch**  
 - Designing and implementing **end-to-end ML pipelines**, from data acquisition to deployment in production  
 - Practicing **software engineering best practices** for clean, scalable, and reproducible data science  
-- Recreating **classical ML algorithms from scratch** to gain deeper insight into their inner workings  
+- Recreating **classical ML algorithms from scratch** to gain deeper undersanting of their inner workings  
 
 ## 🛠️ Some tools that I have been using and learning  
 
