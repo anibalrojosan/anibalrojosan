@@ -13,7 +13,7 @@ Currently, I am interested in:
 - Recreating **classical ML algorithms from scratch** to gain deeper undersanting of their inner workings
 - Developing expertise in **PyTorch for deep learning**  
 
-## 🛠️ Some tools that I have been using and learning
+## Some tools that I have been using and learning
 
 <p align="center">
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
