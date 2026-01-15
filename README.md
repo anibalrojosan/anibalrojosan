@@ -32,11 +32,12 @@ Currently, I am interested in:
 <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/></a>
 <a href="https://docs.streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="flask" width="45" height="45"/></a>  
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
+<a href="https://docs.pydantic.dev/latest/"><img src="https://raw.githubusercontent.com/pydantic/brand/refs/heads/main/pydantic-logo-square-120px-transparent.svg" alt="jupyter" width="45" height="45"/></a>
 <a href="https://docs.pytest.org/en/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="docker" width="45" height="45"/></a>  
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>
 <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubactions" width="45" height="45"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
 <a href="https://colab.research.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="45" height="45"/></a>
-<a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/></a>         
+<a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/></a>
 </p>
