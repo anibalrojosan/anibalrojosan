@@ -2,8 +2,6 @@
 
 I'm a **Bioprocess Engineer** **MSc. in Biochemical Engineering** transitioning into **Full-stack Data Science** 🦠🤖. 
 
----
-
 ## Learning journey  
 
 My main interests are:
@@ -18,7 +16,6 @@ I'm currently expanding my full-stack toolkit to bridge the gap between data int
 - **Robust Backend:** Deepening into **FastAPI & Django** to create scalable APIs that serve ML models efficiently.
 - **Full-stack Integration:** Understanding how to architect end-to-end systems where data flows seamlessly from databases to a polished user interface.
 
----
 
 ## Some tools that I have been using and learning
 <div align="center">
