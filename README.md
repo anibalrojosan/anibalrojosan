@@ -1,26 +1,22 @@
 # 👋 Hi, I'm Aníbal Rojo  
 
-I am a **Bioprocess Engineer** and **MSc. in Biochemical Engineering** with a deep specialization in **Environmental Biotechnology**. Currently, I am pivoting towards **Full-stack Data Science**, bridging the gap between biological systems and **AI**.
-
-My goal is to leverage advanced **Mathematics**, **Machine Learning**, and **Software Engineering** to build end-to-end solutions that optimize biochemical processes 🦠🤖. I am committed to developing scalable technology that creates a measurable positive impact on society and environmental sustainability.
+I'm a **Bioprocess Engineer** **MSc. in Biochemical Engineering** transitioning into **Full-stack Data Science** 🦠🤖. 
 
 ---
 
 ## Learning journey  
 
 My main interests are:
-- Bridging ML and Production through **Full-stack software engineering**.
-- Strengthening my foundations in **mathematics for machine learning**  
-- Designing and implementing **end-to-end ML pipelines**, from data acquisition to deployment in production.
-- Practicing **software engineering best practices** for clean, scalable, and reproducible data science.
-- Recreating **classical ML algorithms from scratch** to gain deeper undersanting of their inner workings.
-- Developing expertise in **PyTorch for deep learning**.
+- 🚀 **End-to-End ML:** Bridging the gap between models and production via Full-stack engineering.
+- 📐 **ML Foundations:** Strengthening math skills and building classical algorithms from scratch.
+- 🏗️ **Software Excellence:** Implementing clean, scalable code for reproducible data science.
+- 🧠 **Deep Learning:** Mastering **PyTorch** for complex model development.
 
-I am currently expanding my web development skills to bridge the gap between **Complex Models** and **User-Centric Applications**. My goal is not just to build websites, but to deploy intelligent systems:
+I'm currently expanding my full-stack toolkit to bridge the gap between data intelligence and user experience, transforming complex mathematical and ML models into intuitive, scalable applications:
 
-- **Frontend for Data:** Learning **HTML5, CSS3, and React** to transform static models into interactive data products.
-- **Robust Backend:** Deepening into **Django & FastAPI** to create scalable APIs that serve ML models efficiently.
-- **Full-stack Integration:** Understanding how to architect end-to-end systems where data flows seamlessly from sensors/databases to a polished user interface.
+- **Frontend for Data:** Learning **HTML, CSS, JS and React** to transform static models into interactive data products.
+- **Robust Backend:** Deepening into **FastAPI & Django** to create scalable APIs that serve ML models efficiently.
+- **Full-stack Integration:** Understanding how to architect end-to-end systems where data flows seamlessly from databases to a polished user interface.
 
 ---
 
