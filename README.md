@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aníbal Rojo  
 
-I'm a **Bioprocess Engineer** **MSc. in Biochemical Engineering** transitioning into **Full-stack Data Science** 🦠🤖. 
+I'm a **Bioprocess Engineer** & **MSc. in Biochemical Engineering** transitioning into **Full-stack Data Science** 🦠🤖. 
 
 ## Learning journey  
 
