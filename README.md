@@ -10,12 +10,21 @@ My main interests are:
 - 🏗️ **Software Excellence:** Implementing clean, scalable code for reproducible data science.
 - 🧠 **Deep Learning:** Mastering **PyTorch** for complex model development.
 
-I'm currently expanding my full-stack toolkit to bridge the gap between data intelligence and user experience, transforming complex mathematical and ML models into intuitive, scalable applications:
+I'm currently expanding my full-stack toolkit to bridge the gap between data intelligence and user experience, integrating complex mathematics, data analysis and ML models into intuitive, scalable applications:
 
-- **Frontend for Data:** Learning **HTML, CSS, JS and React** to transform static models into interactive data products.
+- **Frontend for Data:** Learning **HTML, CSS, JS/TS and React** to transform static models into interactive data products.
 - **Robust Backend:** Deepening into **FastAPI & Django** to create scalable APIs that serve ML models efficiently.
 - **Full-stack Integration:** Understanding how to architect end-to-end systems where data flows from databases to a polished user interface.
 
+## Current projects
+
+- 🪙 [Proggy Wallet](https://github.com/anibalrojosan/proggy-wallet) - Full-stack Fintech roadmap; architecting atomic transactions and secure digital assets.
+- 📈 [Optima](https://github.com/anibalrojosan/optima-license-manager) - FinOps engine to kill SaaS waste; precision accounting for digital assets.
+- 🚀 [MLOps Workflow](https://github.com/anibalrojosan/production-ready-mlops-workflow) - Industrialized ML pipelines; transforming models into tested, containerized microservices.
+- 🎛️ [Hyperparameter Tuning Toolkit](https://github.com/anibalrojosan/hyperparameter-tuning-toolkit) - Quantifying the trade-offs of HPO strategies; where Optuna meets Evolutionary Algorithms.
+- 📦 [Ecommerce Shipping Delay Analysis](https://github.com/anibalrojosan/ecommerce-shipping-delay-analysis) - Quantifying the cost of shipping delays; from raw logistics to interactive insights.
+- 💎 [Clean Income Prediction](https://github.com/anibalrojosan/income-prediction-refactored) - Refactoring monolithic DS notebooks into production-grade modular ecosystems.
+- 🎵 [Spotify ML Analyzer](https://github.com/anibalrojosan/spotify-ml-analyzer) - Unsupervised ML to decode your musical personality; AI-driven psychological profiling.
 
 ## Some tools that I have been using and learning
 <div align="center">
