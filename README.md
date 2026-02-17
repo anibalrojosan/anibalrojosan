@@ -6,7 +6,7 @@ I'm a **Bioprocess Engineer** & **MSc. in Biochemical Engineering** transitionin
 
 My main interests are:
 - 🚀 **End-to-End ML:** Bridging the gap between models and production via Full-stack engineering.
-- 📐 **ML Foundations:** Strengthening math skills and building classical algorithms from scratch.
+- 📐 **ML Foundations:** Strengthening my math and coding skills and building classical algorithms from scratch.
 - 🏗️ **Software Excellence:** Implementing clean, scalable code for reproducible data science.
 - 🧠 **Deep Learning:** Mastering **PyTorch** for complex model development.
 
