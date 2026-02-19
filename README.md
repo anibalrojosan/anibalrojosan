@@ -19,7 +19,6 @@ I'm currently expanding my full-stack toolkit to bridge the gap between data int
 ## Current projects
 
 - 🪙 [Proggy Wallet](https://github.com/anibalrojosan/proggy-wallet) - Full-stack Fintech roadmap; architecting atomic transactions and secure digital assets.
-- 📈 [Optima](https://github.com/anibalrojosan/optima-license-manager) - FinOps engine to kill SaaS waste; precision accounting for digital assets.
 - 🚀 [MLOps Workflow](https://github.com/anibalrojosan/production-ready-mlops-workflow) - Industrialized ML pipelines; transforming models into tested, containerized microservices.
 - 🎛️ [Hyperparameter Tuning Toolkit](https://github.com/anibalrojosan/hyperparameter-tuning-toolkit) - Quantifying the trade-offs of HPO strategies; where Optuna meets Evolutionary Algorithms.
 - 📦 [Ecommerce Shipping Delay Analysis](https://github.com/anibalrojosan/ecommerce-shipping-delay-analysis) - Quantifying the cost of shipping delays; from raw logistics to interactive insights.
