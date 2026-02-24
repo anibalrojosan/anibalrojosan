@@ -19,11 +19,12 @@ I'm currently expanding my full-stack toolkit to bridge the gap between data int
 ## Current projects
 
 - 🪙 [Proggy Wallet](https://github.com/anibalrojosan/proggy-wallet) - Full-stack Fintech roadmap; architecting atomic transactions and secure digital assets.
+- 😎 [PepoRAG](https://github.com/anibalrojosan/pepo-rag) - 100% local technical librarian; chat with your books with this private RAG system.
+- 🎵 [Spotify ML Analyzer](https://github.com/anibalrojosan/spotify-ml-analyzer) - Unsupervised ML to decode your musical personality; AI-driven psychological profiling.
 - 🚀 [MLOps Workflow](https://github.com/anibalrojosan/production-ready-mlops-workflow) - Industrialized ML pipelines; transforming models into tested, containerized microservices.
 - 🎛️ [Hyperparameter Tuning Toolkit](https://github.com/anibalrojosan/hyperparameter-tuning-toolkit) - Quantifying the trade-offs of HPO strategies; where Optuna meets Evolutionary Algorithms.
 - 📦 [Ecommerce Shipping Delay Analysis](https://github.com/anibalrojosan/ecommerce-shipping-delay-analysis) - Quantifying the cost of shipping delays; from raw logistics to interactive insights.
 - 💎 [Clean Income Prediction](https://github.com/anibalrojosan/income-prediction-refactored) - Refactoring monolithic DS notebooks into production-grade modular ecosystems.
-- 🎵 [Spotify ML Analyzer](https://github.com/anibalrojosan/spotify-ml-analyzer) - Unsupervised ML to decode your musical personality; AI-driven psychological profiling.
 
 ## Some tools that I have been using and learning
 <div align="center">
