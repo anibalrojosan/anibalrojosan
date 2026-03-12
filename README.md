@@ -18,7 +18,6 @@ I'm currently expanding my full-stack toolkit to bridge the gap between data int
 
 ## Current projects
 
-- 🦠 [ALBATwin-Hub](https://github.com/anibalrojosan/ALBATwin-Hub) - Digital Twin for Algae-Bacteria wastewater treatment in high rate algal ponds.
 - 🪙 [Proggy Wallet](https://github.com/anibalrojosan/proggy-wallet) - Full-stack Fintech roadmap; architecting atomic transactions and secure digital assets.
 - 📈 [Optima](https://github.com/anibalrojosan/optima-license-manager) - FinOps intelligence platform; orchestrating software lifecycle and cost optimization through decoupled architecture.
 - 😎 [PepoRAG](https://github.com/anibalrojosan/pepo-rag) - 100% local technical librarian; chat with your books with this private RAG system.
